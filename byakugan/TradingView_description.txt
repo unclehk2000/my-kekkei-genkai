@@ -1,0 +1,163 @@
+UPDATE NOTE (post this as the script update on the existing Byakugan publication)
+────────────────────────────────────────────────────────────────────────
+Live odds on the 7–9 range, its consolidation read, and ICT's reversal grid. From ICT's "NQ Futures Price Action Commentary", 27 Oct 2026.
+• Live odds on the 7–9 high and low from 09:00: the chance each one trades by 12:00 and by 16:00, from its distance in ADR20 and the time left. Once it trades, ✓ and the time; if it never does, "held to 16:00". Scored on 2025–26: Brier 0.177 → 0.146 by 12:00 and 0.158 → 0.130 by 16:00.
+• The 0.5 shows the range as a share of ADR20, tagged consolidation at 20% or less and wide above 28%. On tight mornings the first break carried to the 1.5 before the other side traded more often than chance: 69.6% vs 67.0% on shuffled bars, z 4.4 as a slope.
+• ICT's reversal grid and IFVG ladder (off by default, reference). When the run is over and the other side trades, the leg is graded in eighths and its FVGs are carried right as possible inversions. 27 Oct reproduced to the tick: his 0.625 is 29,615.25, and the 10:38 low printed 29,615.00.
+• Tested and not found: a pull back to the other side (58.7% vs 58.8% shuffled by 16:00), and the 1.5 marking the turn (no pile-up of run ends there).
+
+
+TITLE (paste into the Title field)
+Byakugan: ICT 7–9 AM Range with Live Odds, Consolidation Read, First Presented FVG & 07:00 Displacement for NQ / ES
+
+DESCRIPTION (paste everything below the line into the Description field)
+────────────────────────────────────────────────────────────────────────
+
+[b]Byakugan[/b] reads the 07:00–09:00 ET premarket range the way ICT teaches it. He calls this window the dealing range "defined by time", the base for the morning's standard deviations. On the chart:
+• [b]The 7–9 range[/b]: its high, low and 0.5, drawn while it forms, plus its first 30 minutes.
+• [b]Live odds[/b] on its high and low: the chance each one trades by 12:00 and by 16:00.
+• [b]Its size against ADR20[/b], tagged consolidation when it is tight.
+• [b]Standard deviations[/b] (1.5, 2.0, −0.25, −0.5 and your own), the 09:30 bias and the Asia / London target.
+• [b]The first presented FVG[/b] of the New York session.
+• [b]On 1-minute charts[/b]: the 07:00 displacement graded in eighths, with live odds on its 1, and suspension blocks.
+• [b]ICT's reversal grid and IFVG ladder[/b], as reference (off by default).
+The numbers come from NQ, ES and RTY 1-minute data, 2018–26.
+[i]A map of the morning's liquidity with tested odds. It does not call direction.[/i]
+
+
+[b]█ THE 7–9 AM RANGE[/b]
+
+• [b]While it forms[/b] (07:00 → 09:00): a box that grows with price, its 0.5 forming inside.
+• [b]At 09:00[/b]: the high, low and 0.5, run from 07:00 to the cut-off (11:00 by default), each named with the time it printed ([i]07:45 10/27 7–9 low[/i]).
+• [b]The first 30 minutes[/b] (07:00–07:30): its high and low, a vertical line at 07:30, optional EQ.
+  – It already held the 7–9 high on 31% of days and the low on 31%.
+  – By 09:00 one side was taken on 58% of days, both on 40%.
+  – By 11:00 at least one side on 99.9%, both on 76%.
+• [b]Labels[/b] at nearly the same price (within 0.5% of ADR20) share one label, listed top to bottom.
+
+
+[b]█ LIVE ODDS ON THE HIGH AND LOW[/b]
+
+From 09:00, each side of the range that price has not traded through carries its odds ([i]7–9 low · by 12:00 73% · by 16:00 80%[/i]).
+• They come from two things: the distance from price in ADR20 (the average daily range of the 20 days before) and the time left.
+• Once a side trades: ✓ and the time ([i]7–9 high ✓ 09:34[/i]). If it never does: [i]held to 16:00[/i].
+• Scored on 2025–26 after fitting on 2018–24, against time alone:
+  – by 12:00, Brier 0.177 → 0.146;
+  – by 16:00, 0.158 → 0.130.
+  Predictions landed within about 4 points of the actual rate in every band, and within 3 points on average for each symbol.
+
+
+[b]█ CONSOLIDATION[/b]
+
+ICT asks what the 7–9 schematic is: "It's consolidation. Perfect." The 0.5 label shows the range as a share of ADR20 ([i]Byakugan 0.5 · 15% of ADR20 · consolidation[/i]).
+• [b]Consolidation[/b] is 20% or less, the tightest 40% of mornings. [b]Wide[/b] is over 28%.
+• [b]What it changes:[/b] the tighter the range, the more often the first break carried to the 1.5 before the other side traded.
+  – At 20% or less: 69.6%, against 67.0% on the same days' bars shuffled.
+  – Over 28%: 58.4% (59.7%).
+  – z 4.4 as a slope, with the same sign on NQ, ES and RTY.
+• [b]What it does not change:[/b] the other side was not likelier to trade on tight mornings than chance (68.2% vs 69.6% by 16:00), and the 1.5 did not mark the end of the run more often.
+Consolidation helps the projection as a target, not the reversal. Tight mornings already get higher odds on both sides, because both sides sit closer.
+
+
+[b]█ STANDARD DEVIATIONS, BIAS AND THE ASIA / LONDON TARGET[/b]
+
+• [b]Extensions[/b] in multiples of the range. 1.5, 2.0 and 2.5 run beyond the extreme that formed last. −0.25, −0.5, −1.25 and −1.5 run beyond the origin. Custom levels are on the same scale. Each is dashed once traded.
+• [b]The 09:30 bias:[/b] the open against the 0.5.
+• [b]The Asia / London target:[/b] the Asia (20:00–00:00) or London (02:00–05:00) extreme in the bias direction, tagged with its distance zone, and marked when swept.
+
+
+[b]█ THE FIRST PRESENTED FVG[/b]
+
+• The first fair value gap of the session (09:30–16:00 by default) that completes within 30 minutes of the open.
+• Drawn with its CE.
+• Optionally its reflection: the first opposite gap after it.
+• It runs to the cut-off, the session end, the day's last candle or the present.
+
+
+[b]█ THE 07:00 DISPLACEMENT AND SUSPENSION BLOCKS[/b] (1-minute charts)
+
+From ICT's "The Science of Anticipation" (NQ, 6 Aug 2026), reproduced to the tick.
+• [b]The displacement:[/b] the largest-body candle in 07:00–07:14, at least 5× the 06:00–06:59 median body, leaving a gap (about 1 day in 4).
+• [b]Graded in eighths:[/b] 1 = the gap edge of the candle before it, 0 = its volume-imbalance edge.
+• [b]The 1[/b] carries live odds of price coming back by 11:00, then ✓. Price was back by 09:00 on 84% of these days and by 11:00 on 92%.
+• [b]Suspension blocks:[/b] a body with a volume imbalance on both sides, with its CE. By default only in the displacement's own leg.
+
+
+[b]█ ICT'S REVERSAL GRID AND IFVG LADDER[/b] (reference, off by default)
+
+On 27 Oct 2026 the sequence ran like this:
+  – the range was 29,519.00–29,628.75;
+  – the first break went up and ran to 29,687.75 at 09:41, through the 1.5 at 29,683.62;
+  – the 7–9 low traded at 10:10 and the leg bottomed at 29,494.50 (10:17);
+  – ICT graded that leg, and its 0.625 at 29,615.25 met the 10:38 low of 29,615.00.
+• [b]The grid:[/b] once the run is over and price trades through the other side, the leg from the run's extreme (1) to the new extreme (0), in eighths. The 0 follows price until it retraces to the 0.5, then it is fixed; it runs to 16:00.
+• [b]The ladder:[/b] every fair value gap printed in that leg, carried right with its CE, ICT's "fireman's ladder". Once a candle closes back through a gap it is marked [i]IFVG ✓[/i] with the time.
+• Latest day only. Neither is a tested level. The eighths of opening ranges and gaps turned price no more often than placebo levels in earlier tests (50.9% vs 50.4%).
+
+
+[b]█ WHAT THE TESTS SHOWED (NQ, ES and RTY 1-minute, 2018–26)[/b]
+
+Each claim is scored against the same day's 09:00–16:00 bars shuffled within each 30 minutes. The shuffle keeps the size of the moves and the day's volatility profile but removes their order.
+[b]Held:[/b]
+• The live odds on the 7–9 high and low (above).
+• Tight 7–9 ranges carry the first break to the 1.5 a little more often than chance (above).
+• Price back to the 07:00 displacement's 1 by 11:00: 92% (1,571 days).
+• The 7–9 range's width forecasts the size of the RTH range (NQ, r 0.40).
+[b]Not found:[/b]
+• [b]The pull back to the other side:[/b] after the first break, the other side traded by 12:00 on 48.2% of days (48.2% shuffled) and by 16:00 on 58.7% (58.8%).
+• [b]The 1.5 as the turn:[/b] the run reached it before the other side on 64.9% (64.4%), and the other side then traded on 41.9% (41.3%). Run ends do not pile up there: 1.4–1.6 holds 10.5% of them (9.8%). The real difference is fewer breaks failing right past the edge.
+• [b]Fifteen other definitions of consolidation[/b] (a choppy 7–9, inside the overnight range, an inside day, tight 3- to 20-day boxes, a sideways month, a quiet London) did not make the other side likelier than the shuffle.
+• [b]Direction:[/b] the 09:30 bias and the 07:00–07:30 EQ against the 0.5 gave no edge from any price you could enter at.
+• [b]On the 07:00 displacement:[/b] a body beyond the 0.5, the suspension-block CE, a move into a daily FVG / IFVG and "the upper half of a gap held" were each no better than a random walk from the same price.
+
+
+[b]█ SETTINGS[/b]
+
+[b]View[/b] sits at the top, as in my other indicators: theme, text size and colour, label date format and side, days to keep, how older days fade.
+[b]Byakugan · 7–9 AM range:[/b] the range and the cut-off; colours and the box; the box while it forms; the first 30 minutes; the 09:30 bias; the live odds; the size and consolidation tag.
+[b]Extensions:[/b] 1.5 / 2.0 / 2.5, −0.25 / −0.5 / −1.25 / −1.5, custom levels and their style.
+[b]Asia / London target:[/b] on / off, sessions, distance zone, colour.
+[b]First presented FVG:[/b] session, window, length, colours, CE, reflection.
+[b]ICT's reversal grid (reference):[/b] the grid, the IFVG ladder, colours.
+[b]07:00 displacement · suspension blocks:[/b] window, size, eighths, colours, block mode.
+
+
+[b]█ HOW TO USE[/b]
+
+• Built for NQ / MNQ and ES / MES on intraday charts of 15 minutes or less. The displacement and suspension blocks need 1 minute.
+• The live odds use the default 07:00–09:00 range, the setting they were measured on.
+• Read the odds as a map: a side at 80% is likely to trade, not a reason to trade toward it. The first break, the run and the other side are where ICT works; the odds say how far each is.
+• Times are New York.
+
+
+[b]█ DATA AND METHOD[/b]
+
+• NQ, ES and RTY 1-minute bars, 2018 to Oct 2026, about 6,400 trading days.
+• [b]Live odds:[/b] at each quarter-hour from 09:00, each untraded side, logit = I(k) + (a + b·k / 27)·ln(distance in ADR20 + 0.01), k = quarter-hours since 09:00. Fitted on 2018–24, scored on 2025–26.
+• [b]The shuffle:[/b] the same day's 09:00–16:00 bars permuted within each 30-minute block, 5 times a day. Real minus shuffled is paired by day.
+• [b]Consolidation:[/b] the 7–9 range over ADR20, known at 09:00. Fifteen other definitions were checked the same way.
+• [b]On the chart:[/b] the 7–9 levels are fixed at 09:00 from completed bars. The forming box, the odds and the grid's 0 move with price as described; history does not repaint.
+
+
+[b]█ LIMITATIONS[/b]
+
+[i]These are historical frequencies, not guarantees.[/i]
+• Tested on NQ, ES and RTY. Other symbols get the same model without a test of their own.
+• The consolidation effect is small, a few points, and the reversal grid and ladder are untested; they are drawn because ICT teaches them, and labelled as such.
+• Nothing here is financial advice.
+
+
+[b]█ WHY THE NAME[/b]
+
+[b]Byakugan[/b] (白眼, the [i]White Eye[/i]) is the Hyūga clan's eye in Naruto. It sees in almost every direction at once, across great distances and through what blocks ordinary sight. It can see the body's 361 tenketsu, the points where chakra flows out, which the Sharingan cannot.
+The 7–9 range is that vantage point before the open: the liquidity on both sides of the morning, seen at once and with its odds. The Hyūga style is the Eight Trigrams: strikes on exact points, sixty-four palms at a time, eight times eight. Byakugan grades in eighths too, the 07:00 displacement and ICT's reversal leg, down to the tick.
+Even the Byakugan has a blind spot, at the back of the neck, and an opponent found it. This one's is direction. The odds see where price is likely to go next, not which way the day will close.
+
+
+[b]█ CREDITS[/b]
+
+• ICT concepts ([i]Michael J. Huddleston[/i]): the first presented FVG; the 07:00 displacement and suspension blocks ("The Science of Anticipation", Aug 2026); the 7–9 range as a consolidation, its standard deviations, the reversal grid and the IFVG ladder ("NQ Futures Price Action Commentary", 27 Oct 2026).
+• Inspired by "ICT 1st Presented FVG" by [i]tristanlee85[/i]; detection written from scratch here.
+• Not affiliated with or endorsed by either. Open source under MPL 2.0.
+
+[i]Historical frequencies, not guarantees. Not financial advice.[/i]
