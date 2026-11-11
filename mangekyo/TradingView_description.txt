@@ -1,0 +1,41 @@
+TITLE (paste into the Title field)
+Mangekyō: Daily & Weekly (Eternal) FVGs, Volume Imbalances & Suspension Blocks — Octants, Live PO3, Tested Odds
+
+DESCRIPTION (paste everything below the line into the Description field)
+────────────────────────────────────────────────────────────────────────
+
+[b]Mangekyō[/b] reads the higher-timeframe gaps ICT grades and trades from the lower timeframes, with one switch between the two eyes:
+• [b]Daily · Mangekyō[/b]: the daily gaps from the last 20, 40 or 60 trading days (or this week's and last week's).
+• [b]Weekly · Eternal Mangekyō[/b]: the weekly gaps from the last 12, 26 or 52 weeks.
+• Fair value gaps (BISI / SIBI), suspension blocks and volume imbalances, anchored and named as ICT draws them; the gap price is in graded in octants across the chart with prices.
+• [b]PO3 with no lag[/b]: the gap's candles right of price, plus the candle forming now, built from the chart's own bars and updated on every tick.
+• [b]A compact card[/b]: gap · range · ✓ / ✕ · odds, with caution rows only when something is live.
+[i]It maps the gaps and says how often gaps like them did what. It does not call the next move.[/i]
+
+[b]█ THE NAME[/b]
+In Naruto, the Mangekyō Sharingan (万華鏡, "Kaleidoscope") is the Sharingan's awakened stage, and it dims each time it is used. The Eternal Mangekyō (永遠の万華鏡) is its final form, the eye that no longer fades. Daily gaps come and go within weeks; weekly gaps stay on the chart for months. The Timeframe switch opens either eye.
+
+[b]█ WHAT IT DRAWS[/b]
+• [b]Gaps:[/b] FVG (three candles whose wicks leave a gap), suspension block (a candle with a volume imbalance on both sides), volume imbalance (two bodies that do not meet). Tested size filters per timeframe by default, or your own.
+• [b]The most local ones[/b] above and below price, and any gap price is inside; overlapping gaps on the same side merge (FVG before suspension block before imbalance).
+• [b]The graded gap:[/b] a line at every eighth across the chart, CE in green, each line's fraction and price at the right edge.
+• [b]Inversion FVGs[/b] in orange until a close beyond the other edge; the wick CEs of the last swing candle; the FVG the forming candle is making, dashed and moved live.
+• [b]PO3:[/b] when price trades inside a gap (or always, on the nearest), its candles right of price with the gap shaded and its CE, the candle forming now (dashed), a line at the price and the countdown to the daily / weekly close. The candles use Hadō 99's system: Model (gap colours), ICT (green / black) or Custom colours for bodies, borders and wicks, wick width, C1–C3 tags, times, countdown, forming candle dashed, offset, width and gap.
+• [b]Text colour:[/b] auto by theme, or your own colours for the chart's labels and the card's text, for chart backgrounds where white or black reads badly.
+• [b]Mitigated when:[/b] closed beyond (ICT's reading), far edge traded, CE traded or touched. Data from the chart symbol, the front-month contract or the continuous 1!, with settlement, last-trade or ICT's widest bodies.
+
+[b]█ THE CARD[/b]
+• [b]Gap · Range · ✓ · Odds[/b]: ✕ untouched, ✓ reached, ◐ price inside, ↺ inverted.
+• [b]Odds:[/b] untouched gaps show the tested chance the near edge trades (daily: by Friday · in 20 days; weekly: in 4 · 12 weeks), from distance. A gap touched for the first time today / this week shows the chance the touch holds the far edge, from width.
+• [b]Caution rows[/b] only when live: [i]◐ IN ▲ BISI · near half, CE held · close here → 4W 51%[/i], [i]◆ FORMING ▼ SIBI …[/i], and (daily) the week's premium / discount draw.
+• Rows each side (1–4), the odds column and the caution rows are switches; Mobile drops the range column.
+
+[b]█ WHAT THE TESTS SHOWED[/b] (NQ, ES, RTY 2010–26; YM 2017–26; against the same candles without a gap)
+• [b]The touch holds, a small edge[/b]: daily, the touch day held the far edge 49% vs 45% (t 3.7). Weekly, the touch week held 43.7% vs 38.9% (+4.2 ± 2.0; 2010–24 +3.6, 2025–26 +11.5).
+• [b]Reach[/b]: calibrated walk-forward (weekly Brier 0.113 / 0.158 vs 0.165 / 0.245 flat), but gaps were reached at the same rate as any level as far away. The odds come from distance.
+• [b]No edge in the tests[/b]: inversions, volume, structure breaks, and what happens after the touch candle. They are drawn, or in tooltips, not given a column.
+
+[b]█ CREDITS[/b]
+Fair value gap, volume imbalance, suspension block, consequent encroachment, octant grading and PO3 are taught by ICT (Michael J. Huddleston). The compact ✓ / ✕ card was inspired by El3mentss's DOL table in his GXV HTF Profiler-PRO rework (no code used). Not affiliated with or endorsed by ICT.
+
+[i]For education. Past behaviour does not promise future results.[/i]
