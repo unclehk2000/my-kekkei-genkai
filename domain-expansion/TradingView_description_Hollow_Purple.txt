@@ -1,0 +1,45 @@
+UPDATE NOTE (post this as the script update on the existing Domain Expansion publication)
+────────────────────────────────────────────────────────────────────────
+Hollow Purple: the NY PM model, added to Domain Expansion. The London model and card are unchanged.
+• The PM range (13:30–13:59) read at 14:00: where the 13:59 close sits gives the odds of which side breaks first (12% → 89% up, bottom to top octant).
+• The −0.5 ARP (algorithmic range projection) and 1 / 1.5 / 2 SD to 16:14. On the first-break side by 16:14: 74 / 51 / 35 / 23%.
+• The final-hour range (15:00–15:49) drawn as it forms and set at 15:50, with its −0.5 ARP, and the MOC macro (15:50–16:00) shaded.
+• A Hollow Purple card with ✓ times and live odds by 16:14, and new alerts. Its top row, PLAN, says what to watch now: the next level, how far away it is and its odds.
+• Layout: Mobile (View settings) folds both cards to their key rows for a phone and hides the recent-sessions table.
+• New default places, so the tables no longer overlap: London card top right, Hollow Purple bottom right, recent sessions bottom left. Saved charts keep the places they had, so move them once if they overlap.
+• NQ + ES + RTY 1-minute 2018–26, 6,333 sessions; each figure held in 2018–24 and 2025–26 and on each symbol.
+
+
+DESCRIPTION SECTION (add below the London sections)
+────────────────────────────────────────────────────────────────────────
+
+[b]█ HOLLOW PURPLE · NY PM[/b]
+
+The New York afternoon, built from ICT's Price Action Chronicles on the market-on-close (MOC) macro and tested on [b]6,333 sessions[/b] of NQ, ES and RTY (2018–26). Use a chart of 5 minutes or less for the final hour.
+
+[b]What it draws[/b]
+• [b]The PM range[/b] (13:30–13:59), shaded, with its high, low and CE. The NY PM session opens with the 13:30 pre-market, and its first 30 minutes play the part 09:30–10:00 plays in the morning.
+• [b]The read at 14:00:[/b] where the 13:59 close sits in the range, with the odds of which side breaks first.
+• [b]The −0.5 ARP[/b] (algorithmic range projection: half the range beyond the high or low) and [b]1, 1.5 and 2 SD[/b], both sides, 14:00 to 16:14.
+• [b]The first break[/b] after 14:00, labelled at its candle.
+• [b]The final-hour range[/b] (15:00–15:49), drawn as it forms and set at 15:50, then [b]its −0.5 ARP[/b] above and below.
+• [b]The MOC macro[/b] (15:50–16:00), shaded.
+
+[b]Card[/b] (13:30 → 17:00): the top row, [b]PLAN[/b], says what to watch now: before the break, the side the 14:00 read favours and its edge; after it, the next level on that side not yet reached, its distance and its odds by 16:14; from 15:50, the final-hour side the MOC is likely to take, then its ARP; after 16:14, the day's summary. Below it: the PM range against ADR20, the 14:00 read, the break and whether it held, the ARP and SDs on the break side with ✓ or the live odds by 16:14, then the final-hour range with the odds of which side the MOC takes first, what the MOC took, and the final-hour ARPs.
+
+[b]Layout[/b]: Desktop shows every row. Mobile (View settings) keeps PLAN, READ, BREAK and MOC on the Hollow Purple card and the key rows on the London card, and hides the recent-sessions table. Default places: London card top right, Hollow Purple bottom right, recent sessions bottom left.
+
+[b]What the tests showed[/b] (each held in 2018–24 and 2025–26 and on each symbol)
+• [b]The 13:59 close sets which side breaks first.[/b] % up first by octant, bottom to top: 12 · 19 · 29 · 44 · 55 · 67 · 79 · 89. Broken by 16:14 on 99.5% of sessions; the first break held on 52%.
+• [b]On the first-break side by 16:14:[/b] −0.5 ARP 74%, 1 SD 51%, 1.5 SD 35%, 2 SD 23% (2025–26: 69 · 45 · 30 · 18).
+• [b]The MOC macro[/b] (15:50–15:59) took one side of the final-hour range on 72% of sessions (to 16:14: 80%), and the side nearer price first. It reached the final-hour −0.5 ARP on 16% (to 16:14: 27%).
+• [b]Live odds:[/b] from a level's distance in ATR15 (the 15-minute ATR at 13:30) and the time left. Fit on 2018–24, scored on 2025–26: Brier 0.116 → 0.092. In 2025–26 levels traded up to 8 points less often than predicted.
+
+[b]Tested and not found[/b]
+• The −0.5 ARP is not a terminus: MOC runs stopped there no more often than at −0.375 or −0.625.
+• MOC lows and highs did not land on the day's octant, 16th or quadrant more than on a shifted grid (they were reached 61 / 49 / 40% of the time when price sat inside them at 15:50).
+• Long in the tooth: MOC direction was 50 / 50 against the day's trend.
+• Smooth equal highs or lows were taken less often than the jagged side.
+[i]A map of the afternoon with honest odds, not a list of turning points.[/i]
+
+Credits: ICT (Michael J. Huddleston), Price Action Chronicles: Market On Close Macro, and MOC Crushing The Buying & Selling Pressure Myth (Aug 2026). Written from scratch.
